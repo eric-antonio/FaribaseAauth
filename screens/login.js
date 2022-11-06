@@ -8,7 +8,6 @@ const login = () => {
     </View>
   )
 }
-
 export default login
 
 const styles = StyleSheet.create({})
